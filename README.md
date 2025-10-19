@@ -1,4 +1,4 @@
-# 🤖 Secure Notifier Bot v1.0
+# 🤖 Api Truelog Telegram v1.0
 
 ![Lisensi MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-v18.x-green.svg)
