@@ -39,8 +39,8 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di lingkungan lo
 **1. Clone Repositori**
 
 ```bash
-git clone https://github.com/username/secure-notifier-bot.git
-cd secure-notifier-bot
+git clone https://github.com/zendshost/Api-Truelog-Telegram-V1.git
+cd Api-Truelog-Telegram-V1
 ```
 
 **2. Instal Dependensi**
