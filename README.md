@@ -87,7 +87,7 @@ API_SECRET_KEY="GANTI_DENGAN_KUNCI_RAHASIA_ANDA"
 Setelah konfigurasi selesai, jalankan server dengan perintah berikut:
 
 ```bash
-npm start
+node index.js
 ```
 
 Server Anda sekarang akan berjalan di `http://localhost:3000` (atau port yang Anda tentukan). Bot Telegram Anda juga sudah aktif dan siap menerima perintah.
